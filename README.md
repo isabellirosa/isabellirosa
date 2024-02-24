@@ -1,4 +1,4 @@
-### Olá, sou a Isabelli 👋
+### Hi! I'm Isabelli 👋
 <div align="center">
 <a href="https://github.com/isabellirosa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isabellirosa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
